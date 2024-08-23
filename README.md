@@ -6,7 +6,8 @@ Meu nome é Ana Julia Martins Ramos, eu tenho 16 anos, moro em Campinas e sou es
 - adoro me maquiar e fazer skincare
 - fazer compras é meu hobby favorito
 - amo conversas profundas
-- sou corinthiana 
+- sou corinthiana
+- sou católica
 
 ### Você pode entrar em contato comigo 📫
 
