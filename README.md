@@ -1,17 +1,13 @@
 ### Bem vindo ao meu perfil!
 Meu nome é Ana Julia Martins Ramos, eu tenho 16 anos, moro em Campinas e sou estudante no colégio Culto à Ciência.
 
-- **sobre mim**
-- amo ouvir músicas e assistir filmes e séries
-- adoro me maquiar e fazer skincare
-- fazer compras é meu hobby favorito
-- amo conversas profundas
-- sou corinthiana
-- sou católica
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📫
 
-anajulialrc@gmail.com
+00001122436439sp@al.educacao.sp.gov.br
 @anaamartinssz_
 
 ![](https://media.tenor.com/MpAp99HhWxUAAAAM/sassy-cat.gif)
